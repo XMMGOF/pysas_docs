@@ -79,7 +79,3 @@ Each tutorial has a level of difficulty:
 
 
 
-
-```python
-
-```
