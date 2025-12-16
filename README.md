@@ -9,4 +9,73 @@ git clone https://github.com/XMMGOF/pysas_docs.git
 To use these Jupyter Notebooks you will need to install HEASoft, SAS, and pySAS. See the [README for pySAS](https://github.com/XMMGOF/pysas) for further instructions.
 
 <div class="alert alert-block alert-info">
-<b>Note:</b> These notebooks have been updated to work with pySAS v2.2.2 or higher.</div>
+<b>Note:</b> These notebooks have been updated to work with pySAS v2.2.8 or higher.</div>
+
+# pySAS/SAS Tutorial Notebooks
+
+Each tutorial has a level of difficulty:
+
+- `Beginner`
+- `Intermediate`
+- `Advanced`
+
+## 1. Basic pySAS
+
+&#9672; [Basics of pySAS (`Beginner`)](./Basics_of_pySAS.ipynb): Explanation of the basics of pySAS.
+
+&#9672; [pySAS Introduction -- Short Version (`Beginner`)](./Jupyter_Notebooks/analysis-xmm-short-intro.ipynb): A short introduction to pySAS.
+
+&#9672; [pySAS Introduction -- Long Version (`Beginner`)](./Jupyter_Notebooks/analysis-xmm-long-intro.ipynb): A long introduction to pySAS.
+
+&#9672; [The Absolute Beginner's Guide to XMM-Newton (pdf) (`Beginner`)](./The_Absolute_Beginners_Guide_to_XMM.pdf): The Absolute Beginner's Guide to XMM-Newton.
+
+&#9672; [Switiching from pySAS v1.4 to v2.0 (`Beginner`)](./Switching_from_pySAS_v1.4_to_v2.ipynb): Differences between pySAS v1.4 and v2.0.
+
+&#9672; [First Time using pySAS on Fornax (`Beginner`)](./First_time_Fornax_pySAS_users_start_here.ipynb): Notebook to help set pySAS user defaults on Fornax.
+
+## 2. ABC Guide Notebooks
+
+&#9672; [ABC Guide for XMM-Newton -- EPIC Image Creation and Basic Filtering (`Beginner`)](./Jupyter_Notebooks/analysis-xmm-ABC-guide-EPIC-image-filtering.ipynb): XMM-Newton ABC Guide, EPIC Image Creation and Basic Filtering.
+
+&#9672; [ABC Guide for XMM-Newton -- EPIC Source Extraction and Spectrum Creation (`Beginner`)](./Jupyter_Notebooks/analysis-xmm-ABC-guide-EPIC-image-filtering.ipynb): XMM-Newton ABC Guide, EPIC Source Extraction and Spectrum Creation.
+
+&#9672; [ABC Guide for XMM-Newton -- Fitting an EPIC Spectrum in XSPEC (`Beginner`)](./Jupyter_Notebooks/analysis-xmm-ABC-guide-spectra-fitting.ipynb): XMM-Newton ABC Guide, Fitting an EPIC Spectrum in XSPEC.
+
+&#9672; [ABC Guide for XMM-Newton -- Timing Mode Data Processing (`Beginner`)](./Jupyter_Notebooks/analysis-xmm-ABC-guide-timing-mode.ipynb): XMM-Newton ABC Guide, Timing Mode Data Processing.
+
+&#9672; [ABC Guide for XMM-Newton -- RGS Data Processing (`Beginner`)](./Jupyter_Notebooks/analysis-xmm-ABC-guide-RGS-data.ipynb): XMM-Newton ABC Guide, RGS Data Processing.
+
+&#9672; [ABC Guide for XMM-Newton -- Optical Monitor (OM) (`Beginner`)](./Jupyter_Notebooks/analysis-xmm-ABC-guide-optical-monitor.ipynb): XMM-Newton ABC Guide, Introduction to Optical Monitor Data.
+
+## 3. Specific Topics
+
+&#9672; [Generating EPIC Event Lists (`Beginner`)](./Jupyter_Notebooks/analysis-xmm-epic-reprocessing.ipynb): A guide for processing data from all EPIC cameras on XMM.
+
+&#9672; [Combining the Spectra of the 3 EPIC Cameras -- Part 1: Filtering the Observation (`Intermediate`)](./Jupyter_Notebooks/analysis-xmm-combining-spectra-pt1.ipynb): Step-by-step guide to combine the spectra of all three EPIC camera exposures into one single spectrum with corresponding rmf, arf and bkg files.
+
+&#9672; [Combining the Spectra of the 3 EPIC Cameras -- Part 2: Applying Models to the Spectra (`Intermediate`)](./Jupyter_Notebooks/analysis-xmm-combining-spectra-pt2.ipynb): Step-by-step guide to combine the spectra of all three EPIC camera exposures into one single spectrum with corresponding rmf, arf and bkg files.
+
+&#9672; [Dealing with Pile-up in an EPIC Source (`Intermediate`)](./Jupyter_Notebooks/analysis-xmm-dealing-with-pile-up.ipynb): Introduction on how to deal with pile-up from a bright source.
+
+&#9672; [Dealing with EPIC Out-of-Time Events -- Part 1: Images (`Intermediate`)](./Jupyter_Notebooks/analysis-xmm-dealing-with-out-of-time-events-pt1.ipynb): This thread will allow the user to create an image cleaned from out-of-time events.
+
+&#9672; [Dealing with EPIC Out-of-Time Events -- Part 2: Spectra (`Intermediate`)](./Jupyter_Notebooks/analysis-xmm-dealing-with-out-of-time-events-pt2.ipynb): This thread will allow the user to create a spectrum cleaned from out-of-time events.
+
+&#9672; [Source Detection with edetect_chain -- Part 1 (`Intermediate`)](./Jupyter_Notebooks/analysis-xmm-source-detection-p1.ipynb): Using `edetect_chain` to automatically detect sources.
+
+&#9672; [Source Detection with edetect_chain -- Part 2 (`Intermediate`)](./Jupyter_Notebooks/analysis-xmm-source-detection-p2.ipynb): Using `edetect_chain` to automatically detect sources.
+
+&#9672; [EPIC Source Finding Thread: Step-by-Step (`Advanced`)](./Jupyter_Notebooks/analysis-xmm-step-by-step-source-detection.ipynb): A step-by-step recipe to run the source detection chain (`edetect_chain`) in SAS.
+
+&#9672; [RGS+EPIC Joint Spectral Fitting Part 1: Data Processing (`Advanced`)](./Jupyter_Notebooks/analysis-xmm-RGS-EPIC-Joint-Fitting-Part-1.ipynb): XMM-Newton - RGS+EPIC Joint Spectral Fitting.
+
+&#9672; [RGS+EPIC Joint Spectral Fitting Part 2: Fitting the Spectra (`Advanced`)](./Jupyter_Notebooks/analysis-xmm-RGS-EPIC-Joint-Fitting-Part-2.ipynb): XMM-Newton - RGS+EPIC Joint Spectral Fitting.
+
+## 4. Miscellaneous Notebooks
+
+&#9672; [XMM-Newton Event List Structure (`Intermediate`)](./Jupyter_Notebooks/misc-xmm-event-list-structure.ipynb): A basic guide to the internal structure of an XMM-Newton event list.
+
+&#9672; [pySAS Helper Functions (`Intermediate`)](./Jupyter_Notebooks/misc-xmm-pysas-helper-functions.ipynb): This contains a collection of functions used in pySAS tutorials.
+
+
+
