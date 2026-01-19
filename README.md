@@ -53,6 +53,8 @@ The Obs ID used for the tutorial will also be noted.
 
 &#9672; [ABC Guide (PPS) for XMM-Newton -- EPIC Image Creation and Basic Filtering - Using PPS Files](./Jupyter_Notebooks/analysis-xmm-ABC-PPS-guide-EPIC-image-filtering.ipynb) (`Beginner` - Obs ID: 0123700101): XMM-Newton ABC Guide, EPIC Image Creation and Basic Filtering.
 
+&#9672; [ABC Guide (PPS) for XMM-Newton -- EPIC Source Extraction and Spectrum Creation - Using PPS Files](./Jupyter_Notebooks/analysis-xmm-ABC-PPS-guide-EPIC-source-spectrum.ipynb) (`Beginner` - Obs ID: 0123700101): XMM-Newton ABC Guide, EPIC Source Extraction and Spectrum Creation, using PPS Files.
+
 ## 3. Specific Topics
 
 &#9672; [Generating EPIC Event Lists](./Jupyter_Notebooks/analysis-xmm-epic-reprocessing.ipynb) (`Beginner` - Obs ID: 0104860501): A guide for processing data from all EPIC cameras on XMM.
