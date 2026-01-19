@@ -9,7 +9,7 @@ git clone https://github.com/XMMGOF/pysas_docs.git
 To use these Jupyter Notebooks you will need to install HEASoft, SAS, and pySAS. See the [README for pySAS](https://github.com/XMMGOF/pysas) for further instructions.
 
 <div class="alert alert-block alert-info">
-<b>Note:</b> These notebooks have been updated to work with pySAS v2.2.8 or higher.</div>
+<b>Note:</b> These notebooks have been updated to work with pySAS v2.3.0 or higher.</div>
 
 # pySAS/SAS Tutorial Notebooks
 
@@ -78,6 +78,8 @@ The Obs ID used for the tutorial will also be noted.
 &#9672; [XMM-Newton Event List Structure](./Jupyter_Notebooks/misc-xmm-event-list-structure.ipynb) (`Intermediate` - Obs ID: 0079570201): A basic guide to the internal structure of an XMM-Newton event list.
 
 &#9672; [pySAS Helper Functions](./Jupyter_Notebooks/misc-xmm-pysas-helper-functions.ipynb) (`Intermediate` - Obs ID: N/A): This contains a collection of functions used in pySAS tutorials.
+
+&#9672; [Introduction to Pipeline Processing System (PPS) Files](./Jupyter_Notebooks/misc-xmm-PPS-Files.ipynb) (`Intermediate` - Obs ID: 0653860101): This tutorial explains the basics of Pipeline Processing System (PPS) files for XMM-Newton.
 
 
 
