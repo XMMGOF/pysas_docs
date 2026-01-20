@@ -1,3 +1,4 @@
+<!-- #region -->
 # XMM- Newton pySAS Documentation
 
 This repository contains instruction documents, example scripts, and example Jupyter Notebooks associated with [XMM-Newton's pySAS](https://github.com/XMMGOF/pysas). You can clone this repository onto your local machine by using the command,
@@ -51,9 +52,12 @@ The Obs ID used for the tutorial will also be noted.
 
 ### 2.1 ABC Guide Notebooks -- Using PPS Files
 
-&#9672; [ABC Guide (PPS) for XMM-Newton -- EPIC Image Creation and Basic Filtering - Using PPS Files](./Jupyter_Notebooks/analysis-xmm-ABC-PPS-guide-EPIC-image-filtering.ipynb) (`Beginner` - Obs ID: 0123700101): XMM-Newton ABC Guide, EPIC Image Creation and Basic Filtering.
+&#9672; [ABC Guide (PPS) for XMM-Newton -- EPIC Image Creation and Basic Filtering - Using PPS Files](./Jupyter_Notebooks/analysis-xmm-ABC-PPS-guide-EPIC-image-filtering.ipynb) (`Beginner` - Obs ID: 0123700101): XMM-Newton ABC Guide, EPIC Image Creation and Basic Filtering, using PPS Files.
 
 &#9672; [ABC Guide (PPS) for XMM-Newton -- EPIC Source Extraction and Spectrum Creation - Using PPS Files](./Jupyter_Notebooks/analysis-xmm-ABC-PPS-guide-EPIC-source-spectrum.ipynb) (`Beginner` - Obs ID: 0123700101): XMM-Newton ABC Guide, EPIC Source Extraction and Spectrum Creation, using PPS Files.
+
+&#9672; [ABC Guide (PPS) for XMM-Newton -- Timing Mode Data Processing - Using PPS Files](./Jupyter_Notebooks/analysis-xmm-ABC-PPS-guide-timing-mode.ipynb) (`Beginner` - Obs ID: 0123700101): XMM-Newton ABC Guide, EPIC Source Extraction and Spectrum Creation, using PPS Files.
+
 
 ## 3. Specific Topics
 
@@ -89,3 +93,4 @@ The Obs ID used for the tutorial will also be noted.
 
 
 
+<!-- #endregion -->
