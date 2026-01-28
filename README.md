@@ -9,6 +9,8 @@ git clone https://github.com/XMMGOF/pysas_docs.git
 
 To use these Jupyter Notebooks you will need to install HEASoft, SAS, and pySAS. See the [README for pySAS](https://github.com/XMMGOF/pysas) for further instructions.
 
+If you would like to contribute a notebook please contact us! Either through the <a href="https://heasarc.gsfc.nasa.gov/docs/xmm/xmm_helpdesk.html">XMM Newton GOF Helpdesk</a> or by emailing Ryan Tanner directly (ryan.tanner@nasa.gov). If you would like to showcase your science please let us know. We can work with you to turn your science results into an excellent tutorial.
+
 <div class="alert alert-block alert-info">
 <b>Note:</b> These notebooks have been updated to work with pySAS v2.3.0 or higher.</div>
 
@@ -83,7 +85,11 @@ The Obs ID used for the tutorial will also be noted.
 
 &#9672; [RGS+EPIC Joint Spectral Fitting Part 2: Fitting the Spectra](./Jupyter_Notebooks/analysis-xmm-RGS-EPIC-Joint-Fitting-Part-2.ipynb) (`Advanced` - Obs ID: 0601390201): XMM-Newton - RGS+EPIC Joint Spectral Fitting.
 
-## 4. Miscellaneous Notebooks
+## 4. Science Examples
+
+&#9672; [Imaging a Flare from Sagittarius A*](./Jupyter_Notebooks/science-xmm-Sag-A-Star-Flare.ipynb) (`Intermediate` - Obs ID: 0112972101): Creating images of a flare from Sagittarius A*. Based on Goldwurm et al. (2003) (DOI [10.1086/345749](https://doi.org/10.1086/345749)). 
+
+## 5. Miscellaneous Notebooks
 
 &#9672; [XMM-Newton Event List Structure](./Jupyter_Notebooks/misc-xmm-event-list-structure.ipynb) (`Intermediate` - Obs ID: 0079570201): A basic guide to the internal structure of an XMM-Newton event list.
 
