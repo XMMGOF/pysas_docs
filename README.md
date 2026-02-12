@@ -91,6 +91,10 @@ The Obs ID used for the tutorial will also be noted.
 
 ## 5. Miscellaneous Notebooks
 
+&#9672; [Using PyVO to Find Observations for Analysis](./Jupyter_Notebooks/misc-xmm-using-pyvo-to-find-obsids.ipynb) (`Beginner` - Obs ID: Multiple): A tutorial on using PyVO to find Obs IDs for Analysis.
+
+&#9672; [Merging Event Lists From Multiple Obs IDs](./Jupyter_Notebooks/analysis-xmm-Merging-Different-Obs-IDs.ipynb) (`Intermediate` - Obs ID: Multiple): Merging event lists from multiple Obs IDs to create a mosaiced image.
+
 &#9672; [XMM-Newton Event List Structure](./Jupyter_Notebooks/misc-xmm-event-list-structure.ipynb) (`Intermediate` - Obs ID: 0079570201): A basic guide to the internal structure of an XMM-Newton event list.
 
 &#9672; [pySAS Helper Functions](./Jupyter_Notebooks/misc-xmm-pysas-helper-functions.ipynb) (`Intermediate` - Obs ID: N/A): This contains a collection of functions used in pySAS tutorials.
