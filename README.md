@@ -81,6 +81,10 @@ The Obs ID used for the tutorial will also be noted.
 
 &#9672; [EPIC Source Finding Thread: Step-by-Step](./Jupyter_Notebooks/analysis-xmm-step-by-step-source-detection.ipynb) (`Advanced` - Obs ID: 0123700101): A step-by-step recipe to run the source detection chain (`edetect_chain`) in SAS.
 
+&#9672; [How to Use EPIC Instrumental Background Files -- Part 1: Images](./Jupyter_Notebooks/analysis-xmm-how-to-use-EPIC-background-files-pt1.ipynb) (`Intermediate` - Obs ID: 0555630101): The tutorial shows how to produce a Filter Wheel Closed image, and illustrates how it can be used to correct the science data for instrumental background.
+
+&#9672; How to Use EPIC Instrumental Background Files -- Part 2: Spectra (Coming soon!) (`Intermediate` - Obs ID: 0693741001): The tutorial shows how to produce a Filter Wheel Closed spectrum, and illustrates how it can be used to correct the science data for instrumental background.
+
 &#9672; [RGS+EPIC Joint Spectral Fitting Part 1: Data Processing](./Jupyter_Notebooks/analysis-xmm-RGS-EPIC-Joint-Fitting-Part-1.ipynb) (`Advanced` - Obs ID: 0601390201): XMM-Newton - RGS+EPIC Joint Spectral Fitting.
 
 &#9672; [RGS+EPIC Joint Spectral Fitting Part 2: Fitting the Spectra](./Jupyter_Notebooks/analysis-xmm-RGS-EPIC-Joint-Fitting-Part-2.ipynb) (`Advanced` - Obs ID: 0601390201): XMM-Newton - RGS+EPIC Joint Spectral Fitting.
