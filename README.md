@@ -69,6 +69,8 @@ The Obs ID used for the tutorial will also be noted.
 
 &#9672; [Combining the Spectra of the 3 EPIC Cameras -- Part 2: Applying XSPEC Models to the Spectra](./Jupyter_Notebooks/analysis-xmm-combining-spectra-pt2.ipynb) (`Intermediate` - Obs ID: 0111240101): Applying various XSPEC models to the spectra using pyXSPEC and evaluating the fitness of the models.
 
+&#9672; [Combining the Spectra of the 3 EPIC Cameras -- Part 2 (Short Version): Applying XSPEC Models to the Spectra](./Jupyter_Notebooks/analysis-xmm-combining-spectra-pt2-short.ipynb) (`Intermediate` - Obs ID: 0111240101): Applying various XSPEC models to the spectra using pyXSPEC and evaluating the fitness of the models. (Short Version)
+
 &#9672; [Dealing with Pile-up in an EPIC Source](./Jupyter_Notebooks/analysis-xmm-dealing-with-pile-up.ipynb) (`Intermediate` - Obs ID: 0112880701): Introduction on how to deal with pile-up from a bright source.
 
 &#9672; [Dealing with EPIC Out-of-Time Events -- Part 1: Images](./Jupyter_Notebooks/analysis-xmm-dealing-with-out-of-time-events-pt1.ipynb) (`Intermediate` - Obs ID: 0111240101): This thread will allow the user to create an image cleaned from out-of-time events.
