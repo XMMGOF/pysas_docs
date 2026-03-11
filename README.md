@@ -95,6 +95,8 @@ The Obs ID used for the tutorial will also be noted.
 
 &#9672; [Imaging a Flare from Sagittarius A*](./Jupyter_Notebooks/science-xmm-Sag-A-Star-Flare.ipynb) (`Intermediate` - Obs ID: 0112972101): Creating images of a flare from Sagittarius A*. Based on Goldwurm et al. (2003) (DOI [10.1086/345749](https://doi.org/10.1086/345749)). 
 
+&#9672; [Comparing Changes in Tycho's Supernova Remnant Across Time](./Jupyter_Notebooks/science-xmm-comparing-changes-in-Tycho-SN.ipynb) (`Advanced` - Obs ID: Multiple): Tutorial on comparing changes in Tycho's Supernova Remnant over many years.
+
 ## 5. Miscellaneous Notebooks
 
 &#9672; [Using PyVO to Find Observations for Analysis](./Jupyter_Notebooks/misc-xmm-using-pyvo-to-find-obsids.ipynb) (`Beginner` - Obs ID: Multiple): A tutorial on using PyVO to find Obs IDs for Analysis.
