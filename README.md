@@ -69,6 +69,8 @@ The Obs ID used for the tutorial will also be noted.
 
 &#9672; [Combining the Spectra of the 3 EPIC Cameras -- Part 2: Applying XSPEC Models to the Spectra](./Jupyter_Notebooks/analysis-xmm-combining-spectra-pt2.ipynb) (`Intermediate` - Obs ID: 0111240101): Applying various XSPEC models to the spectra using pyXSPEC and evaluating the fitness of the models.
 
+&#9672; [Combining the Spectra of the 3 EPIC Cameras -- Part 2 (Short Version): Applying XSPEC Models to the Spectra](./Jupyter_Notebooks/analysis-xmm-combining-spectra-pt2-short.ipynb) (`Intermediate` - Obs ID: 0111240101): Applying various XSPEC models to the spectra using pyXSPEC and evaluating the fitness of the models. (Short Version)
+
 &#9672; [Dealing with Pile-up in an EPIC Source](./Jupyter_Notebooks/analysis-xmm-dealing-with-pile-up.ipynb) (`Intermediate` - Obs ID: 0112880701): Introduction on how to deal with pile-up from a bright source.
 
 &#9672; [Dealing with EPIC Out-of-Time Events -- Part 1: Images](./Jupyter_Notebooks/analysis-xmm-dealing-with-out-of-time-events-pt1.ipynb) (`Intermediate` - Obs ID: 0111240101): This thread will allow the user to create an image cleaned from out-of-time events.
@@ -81,6 +83,10 @@ The Obs ID used for the tutorial will also be noted.
 
 &#9672; [EPIC Source Finding Thread: Step-by-Step](./Jupyter_Notebooks/analysis-xmm-step-by-step-source-detection.ipynb) (`Advanced` - Obs ID: 0123700101): A step-by-step recipe to run the source detection chain (`edetect_chain`) in SAS.
 
+&#9672; [How to Use EPIC Instrumental Background Files -- Part 1: Images](./Jupyter_Notebooks/analysis-xmm-how-to-use-EPIC-background-files-pt1.ipynb) (`Intermediate` - Obs ID: 0555630101): The tutorial shows how to produce a Filter Wheel Closed image, and illustrates how it can be used to correct the science data for instrumental background.
+
+&#9672; How to Use EPIC Instrumental Background Files -- Part 2: Spectra (Coming soon!) (`Intermediate` - Obs ID: 0693741001): The tutorial shows how to produce a Filter Wheel Closed spectrum, and illustrates how it can be used to correct the science data for instrumental background.
+
 &#9672; [RGS+EPIC Joint Spectral Fitting Part 1: Data Processing](./Jupyter_Notebooks/analysis-xmm-RGS-EPIC-Joint-Fitting-Part-1.ipynb) (`Advanced` - Obs ID: 0601390201): XMM-Newton - RGS+EPIC Joint Spectral Fitting.
 
 &#9672; [RGS+EPIC Joint Spectral Fitting Part 2: Fitting the Spectra](./Jupyter_Notebooks/analysis-xmm-RGS-EPIC-Joint-Fitting-Part-2.ipynb) (`Advanced` - Obs ID: 0601390201): XMM-Newton - RGS+EPIC Joint Spectral Fitting.
@@ -89,7 +95,13 @@ The Obs ID used for the tutorial will also be noted.
 
 &#9672; [Imaging a Flare from Sagittarius A*](./Jupyter_Notebooks/science-xmm-Sag-A-Star-Flare.ipynb) (`Intermediate` - Obs ID: 0112972101): Creating images of a flare from Sagittarius A*. Based on Goldwurm et al. (2003) (DOI [10.1086/345749](https://doi.org/10.1086/345749)). 
 
+&#9672; [Comparing Changes in Tycho's Supernova Remnant Across Time](./Jupyter_Notebooks/science-xmm-comparing-changes-in-Tycho-SN.ipynb) (`Advanced` - Obs ID: Multiple): Tutorial on comparing changes in Tycho's Supernova Remnant over many years.
+
 ## 5. Miscellaneous Notebooks
+
+&#9672; [Using PyVO to Find Observations for Analysis](./Jupyter_Notebooks/misc-xmm-using-pyvo-to-find-obsids.ipynb) (`Beginner` - Obs ID: Multiple): A tutorial on using PyVO to find Obs IDs for Analysis.
+
+&#9672; [Merging Event Lists From Multiple Obs IDs](./Jupyter_Notebooks/analysis-xmm-Merging-Different-Obs-IDs.ipynb) (`Intermediate` - Obs ID: Multiple): Merging event lists from multiple Obs IDs to create a mosaiced image.
 
 &#9672; [XMM-Newton Event List Structure](./Jupyter_Notebooks/misc-xmm-event-list-structure.ipynb) (`Intermediate` - Obs ID: 0079570201): A basic guide to the internal structure of an XMM-Newton event list.
 
