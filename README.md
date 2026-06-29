@@ -12,7 +12,7 @@ To use these Jupyter Notebooks you will need to install HEASoft, SAS, and pySAS.
 If you would like to contribute a notebook please contact us! Either through the <a href="https://heasarc.gsfc.nasa.gov/docs/xmm/xmm_helpdesk.html">XMM Newton GOF Helpdesk</a> or by emailing Ryan Tanner directly (ryan.tanner@nasa.gov). If you would like to showcase your science please let us know. We can work with you to turn your science results into an excellent tutorial.
 
 <div class="alert alert-block alert-info">
-<b>Note:</b> These notebooks have been updated to work with pySAS v2.3.0 or higher.</div>
+<b>Note:</b> These notebooks have been updated to work with pySAS v2.5.0 or higher.</div>
 
 # pySAS/SAS Tutorial Notebooks
 
@@ -36,7 +36,7 @@ The Obs ID used for the tutorial will also be noted.
 
 &#9672; [Switiching from pySAS v1.4 to v2.0](./Switching_from_pySAS_v1.4_to_v2.ipynb) (`Beginner` - Obs ID: N/A): Differences between pySAS v1.4 and v2.0.
 
-&#9672; [First Time using pySAS on Fornax](./First_time_Fornax_pySAS_users_start_here.ipynb) (`Beginner` - Obs ID: N/A): Notebook to help set pySAS user defaults on Fornax.
+&#9672; [First Time using pySAS on Fornax](./Fornax_simple_config.ipynb) (`Beginner` - Obs ID: N/A): Notebook to help set pySAS user defaults on Fornax.
 
 ## 2. ABC Guide Notebooks
 
