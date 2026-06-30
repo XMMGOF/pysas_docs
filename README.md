@@ -26,15 +26,11 @@ The Obs ID used for the tutorial will also be noted.
 
 ## 1. Basic pySAS
 
-&#9672; [Basics of pySAS](./Basics_of_pySAS.ipynb) (`Beginner` - Obs ID: N/A): Explanation of the basics of pySAS.
-
 &#9672; [pySAS Introduction -- Short Version](./Jupyter_Notebooks/analysis-xmm-short-intro.ipynb) (`Beginner` - Obs ID: 0802710101): A short introduction to pySAS.
 
 &#9672; [pySAS Introduction -- Long Version](./Jupyter_Notebooks/analysis-xmm-long-intro.ipynb) (`Beginner` - Obs ID: 0802710101): A long introduction to pySAS.
 
 &#9672; [The Absolute Beginner's Guide to XMM-Newton (pdf)](./The_Absolute_Beginners_Guide_to_XMM.pdf) (`Beginner` - Obs ID: N/A): The Absolute Beginner's Guide to XMM-Newton.
-
-&#9672; [Switiching from pySAS v1.4 to v2.0](./Switching_from_pySAS_v1.4_to_v2.ipynb) (`Beginner` - Obs ID: N/A): Differences between pySAS v1.4 and v2.0.
 
 &#9672; [First Time using pySAS on Fornax](./Fornax_simple_config.ipynb) (`Beginner` - Obs ID: N/A): Notebook to help set pySAS user defaults on Fornax.
 
@@ -104,8 +100,6 @@ The Obs ID used for the tutorial will also be noted.
 &#9672; [Merging Event Lists From Multiple Obs IDs](./Jupyter_Notebooks/analysis-xmm-Merging-Different-Obs-IDs.ipynb) (`Intermediate` - Obs ID: Multiple): Merging event lists from multiple Obs IDs to create a mosaiced image.
 
 &#9672; [XMM-Newton Event List Structure](./Jupyter_Notebooks/misc-xmm-event-list-structure.ipynb) (`Intermediate` - Obs ID: 0079570201): A basic guide to the internal structure of an XMM-Newton event list.
-
-&#9672; [pySAS Helper Functions](./Jupyter_Notebooks/misc-xmm-pysas-helper-functions.ipynb) (`Intermediate` - Obs ID: N/A): This contains a collection of functions used in pySAS tutorials.
 
 &#9672; [Introduction to Pipeline Processing System (PPS) Files](./Jupyter_Notebooks/misc-xmm-PPS-Files.ipynb) (`Intermediate` - Obs ID: 0653860101): This tutorial explains the basics of Pipeline Processing System (PPS) files for XMM-Newton.
 
